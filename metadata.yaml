@@ -1,5 +1,8 @@
 _repo: Returned-Empty_60307
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60307-h/images/cover.jpg
 creator:
   author:
     agent_name: Barclay, Florence L. (Florence Louisa)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1253
     wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60307#Returned-Empty
 gutenberg_issued: '2019-09-16'
 gutenberg_type: Text
 identifiers:
