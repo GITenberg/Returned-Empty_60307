@@ -1,0 +1,29 @@
+_repo: Returned-Empty_60307
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barclay, Florence L. (Florence Louisa)
+    aliases:
+    - Roy, Brandon
+    - Barclay, Florence Louisa (Charlesworth), Mrs.
+    birthdate: 1862
+    deathdate: 1921
+    gutenberg_agent_id: '1253'
+    url: http://www.gutenberg.org/2009/agents/1253
+    wikipedia: http://en.wikipedia.org/wiki/Florence_L._Barclay
+description: ''
+gutenberg_issued: '2019-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60307'
+  lccn: '20011496'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Reincarnation -- Fiction'
+- GITenberg
+title: Returned Empty
+url: http://www.gutenberg.org/ebooks/60307
